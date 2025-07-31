@@ -1,7 +1,1 @@
-cd brooksstrategicsolutions
-git init
-git remote add origin https://github.com/g7757/brooksstrategicsolutions.git
-git checkout -b main
-git add .
-git commit -m "Initial full site deploy"
-git push -u origin main
+
